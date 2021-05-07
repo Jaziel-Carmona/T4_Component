@@ -1,0 +1,7 @@
+{
+  "name": "Aplicaciones T4",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
